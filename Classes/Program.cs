@@ -1,7 +1,7 @@
 ﻿using Classes;
 using System.Globalization;
 
-namespace Course
+namespace Struct
 {
     class Program
     {
