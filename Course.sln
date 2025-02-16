@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "List\List.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{1AFF3E93-EF16-47BB-8573-A3AA0037DFF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "CondicionalTernaria\CondicionalTernaria.csproj", "{8C4CE6CC-FA6B-4E36-8B0A-F1E55F07B284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{72379205-D239-44A2-BFB0-72694DE5E448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{1AFF3E93-EF16-47BB-8573-A3AA0037DFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AFF3E93-EF16-47BB-8573-A3AA0037DFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AFF3E93-EF16-47BB-8573-A3AA0037DFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4CE6CC-FA6B-4E36-8B0A-F1E55F07B284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4CE6CC-FA6B-4E36-8B0A-F1E55F07B284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4CE6CC-FA6B-4E36-8B0A-F1E55F07B284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4CE6CC-FA6B-4E36-8B0A-F1E55F07B284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72379205-D239-44A2-BFB0-72694DE5E448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72379205-D239-44A2-BFB0-72694DE5E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72379205-D239-44A2-BFB0-72694DE5E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72379205-D239-44A2-BFB0-72694DE5E448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
