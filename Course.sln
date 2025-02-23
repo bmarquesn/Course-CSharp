@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{72379205-D239-44A2-BFB0-72694DE5E448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees", "CompanyEmployees\CompanyEmployees.csproj", "{B1141D81-7C02-426E-BA44-0CBFB88264D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{72379205-D239-44A2-BFB0-72694DE5E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72379205-D239-44A2-BFB0-72694DE5E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72379205-D239-44A2-BFB0-72694DE5E448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1141D81-7C02-426E-BA44-0CBFB88264D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1141D81-7C02-426E-BA44-0CBFB88264D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1141D81-7C02-426E-BA44-0CBFB88264D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1141D81-7C02-426E-BA44-0CBFB88264D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
